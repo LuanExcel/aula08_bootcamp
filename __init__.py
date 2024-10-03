@@ -1,0 +1,1 @@
+# Sempre que tiver algum situação de importação de outros módulos tem q usar o __init__
